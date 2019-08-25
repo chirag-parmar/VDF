@@ -26,7 +26,7 @@ def javacOptionsVersion(scalaVersion: String): Seq[String] = {
   }
 }
 
-name := "verifiable-dealy-function"
+name := "verifiable-delay-function"
 
 version := "3.1.1"
 
