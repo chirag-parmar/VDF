@@ -1,8 +1,5 @@
 // See README.md for license details.
-
 package vdf
-
-import java.io.File
 
 import chisel3.iotesters
 import chisel3.iotesters.{ChiselFlatSpec, Driver, PeekPokeTester}
